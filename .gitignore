@@ -17,7 +17,7 @@ config/*
 !defaultoptions
 !incontrol
 !InventoryHUD
-!inventoryprofilesnext
+!inventoryprofilesnext/inventoryprofiles.json
 !jade
 !jei
 !thirst

@@ -1,0 +1,30 @@
+name: Builder
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pack modpack
+        run: |
+          cd ./
+          mkdir build
+          mkdir build/overrides
+          mv ./config build/overrides
+          mv ./kubejs build/overrides
+          mv options.txt build/overrides
+          mv servers.dat build/overrides
+          mv manifest.json build
+          mv modlist.html build
+      - name: Upload modpack to Actions
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1.20.1-Forge-Basic-Pack
+          path: build

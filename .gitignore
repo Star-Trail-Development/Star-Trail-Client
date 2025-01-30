@@ -19,12 +19,13 @@ config/*
 !InventoryHUD
 !inventoryprofilesnext/inventoryprofiles.json
 !jade
-!jei
+!jei/*.ini
 !thirst
 !embeddium*.*
 !inventoryhud-client
 !jecharacters.toml
 !jeiintegration-client.toml
 !minieffects-client.yaml
+!*rain.json5
 !sodium*.*
 !xaero*.*

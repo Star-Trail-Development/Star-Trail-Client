@@ -22,8 +22,8 @@
     "dotSize": 1.0,
     "renderOverMinimapFrame": 1.0,
     "icons": 2.0,
-    "names": 0.0,
     "heightLimit": 30.0,
+    "names": 0.0,
     "iconScale": 0.8
   },
   "subCategories": [

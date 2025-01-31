@@ -28,4 +28,5 @@ config/*
 !minieffects-client.yaml
 !*rain.json5
 !sodium*.*
+!travelers*.toml
 !xaero*.*

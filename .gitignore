@@ -22,7 +22,7 @@ config/*
 !jei/*.ini
 !thirst
 !embeddium*.*
-!inventoryhud-client
+!inventoryhud-client.toml
 !jecharacters.toml
 !jeiintegration-client.toml
 !minieffects-client.yaml

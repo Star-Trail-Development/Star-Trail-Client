@@ -1,0 +1,24 @@
+//waypoints config options
+usingMultiworldDetection:false
+ignoreServerLevelId:false
+defaultMultiworldId:mw13,1,-4
+teleportationEnabled:true
+usingDefaultTeleportCommand:true
+sortType:NONE
+sortReversed:false
+
+//other config options
+ignoreHeightmaps:false
+
+//dimension types (DO NOT EDIT)
+dimensionType:minecraft$resource:minecraft$overworld
+dimensionType:minecraft$2:minecraft$overworld
+dimensionType:minecraft$flat:minecraft$overworld
+dimensionType:minecraft$123:minecraft$overworld
+dimensionType:minecraft$1:minecraft$overworld
+dimensionType:minecraft$overworld:minecraft$overworld
+dimensionType:minecraft$memorial:minecraft$overworld
+dimensionType:minecraft$main:minecraft$overworld
+dimensionType:minecraft$test:minecraft$overworld
+dimensionType:minecraft$flat1:minecraft$overworld
+//server waypoints

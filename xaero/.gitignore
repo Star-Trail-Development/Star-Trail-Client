@@ -1,0 +1,9 @@
+#minimap
+!minimap
+minimap/*
+!minimap/Multiplayer_9.nat0.cn
+
+#worldmap
+!world-map
+world-map/*
+!world-map/Multiplayer_9.nat0.cn

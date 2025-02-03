@@ -9,6 +9,10 @@
 !knownkeys.txt
 !icon.png
 
+!xaero
+xaero/*
+!xaero/.gitignore
+
 !kubejs
 kubejs/config/probejs.json
 kubejs/jsconfig.json

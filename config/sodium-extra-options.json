@@ -32,11 +32,11 @@
     "fog_type": "MOD_COMPAT",
     "fog_distance": 8,
     "fog_start": 100,
-    "multi_dimension_fog_control": false,
+    "multi_dimension_fog_control": true,
     "dimensionFogDistance": {
-      "minecraft:overworld": 0,
-      "minecraft:the_nether": 0,
-      "minecraft:the_end": 0
+      "minecraft:overworld": 8,
+      "minecraft:the_nether": 8,
+      "minecraft:the_end": 8
     },
     "light_updates": true,
     "item_frame": true,
@@ -56,8 +56,8 @@
     "show_coords": false,
     "reduce_resolution_on_mac": false,
     "use_adaptive_sync": false,
-    "cloud_height": 192,
-    "cloud_distance": 100,
+    "cloud_height": 253,
+    "cloud_distance": 300,
     "toasts": false,
     "advancement_toast": false,
     "recipe_toast": false,

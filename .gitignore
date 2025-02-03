@@ -6,6 +6,8 @@
 !modlist.html
 !options.txt
 !servers.dat
+!knownkeys.txt
+!icon.png
 
 !kubejs
 kubejs/config/probejs.json
@@ -20,13 +22,20 @@ config/*
 !inventoryprofilesnext/inventoryprofiles.json
 !jade
 !jei/*.ini
+!openloader
+!pickupnotifier
+!rainbows/overworld.json
+!shield_overhaul
 !thirst
 !embeddium*.*
+!forgematica.json
 !inventoryhud-client.toml
 !jecharacters.toml
 !jeiintegration-client.toml
+!MadParticleConfig.json
 !minieffects-client.yaml
 !*rain.json5
 !sodium*.*
 !travelers*.toml
+!tweakerge.json
 !xaero*.*

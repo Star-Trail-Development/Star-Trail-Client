@@ -23,7 +23,7 @@ jobs:
           mv options.txt build/overrides
           mv servers.dat build/overrides
           mv icon.png build/overrides
-          mv knowkeys.txt build/overrides
+          mv knownkeys.txt build/overrides
           mv manifest.json build
           mv modlist.html build
       - name: Upload modpack to Actions

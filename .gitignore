@@ -1,23 +1,30 @@
+#root
 /*
 !.github
+!customparticles
+!globalresources
+!patchouli_books
 !.gitignore
+!icon.png
+!knownkeys.txt
 !LICENSE
 !manifest.json
 !modlist.html
 !options.txt
 !servers.dat
-!knownkeys.txt
-!icon.png
 
+#map
 !xaero
 xaero/*
 !xaero/.gitignore
 
+#kubejs
 !kubejs
 kubejs/config/probejs.json
 kubejs/jsconfig.json
 kubejs/README.txt
 
+#config
 !config
 config/*
 !defaultoptions

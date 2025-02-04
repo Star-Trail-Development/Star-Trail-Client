@@ -30,13 +30,13 @@
   },
   "render_settings": {
     "fog_type": "MOD_COMPAT",
-    "fog_distance": 8,
+    "fog_distance": 33,
     "fog_start": 100,
-    "multi_dimension_fog_control": true,
+    "multi_dimension_fog_control": false,
     "dimensionFogDistance": {
-      "minecraft:overworld": 8,
-      "minecraft:the_nether": 8,
-      "minecraft:the_end": 8
+      "minecraft:overworld": 9,
+      "minecraft:the_nether": 9,
+      "minecraft:the_end": 9
     },
     "light_updates": true,
     "item_frame": true,

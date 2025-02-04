@@ -13,11 +13,6 @@
 !options.txt
 !servers.dat
 
-#map
-!xaero
-xaero/*
-!xaero/.gitignore
-
 #kubejs
 !kubejs
 kubejs/config/probejs.json

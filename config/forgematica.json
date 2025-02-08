@@ -22,7 +22,7 @@
     "debugLogging": false,
     "easyPlaceFirst": true,
     "easyPlaceHoldEnabled": true,
-    "easyPlaceMode": false,
+    "easyPlaceMode": true,
     "easyPlaceSinglePlayerHandling": true,
     "easyPlaceProtocolVersion": "auto",
     "easyPlaceVanillaReach": false,
@@ -33,6 +33,7 @@
     "highlightBlockInInventory": false,
     "itemUsePacketCheckBypass": true,
     "layerModeFollowsPlayer": false,
+    "materialListIgnoreState": false,
     "pasteAlwaysUseFill": false,
     "pasteIgnoreBlockEntitiesEntirely": false,
     "pasteIgnoreBlockEntitiesFromFill": true,
@@ -92,7 +93,7 @@
       }
     },
     "easyPlaceToggle": {
-      "keys": "I"
+      "keys": ""
     },
     "executeOperation": {
       "keys": "KP_DIVIDE"

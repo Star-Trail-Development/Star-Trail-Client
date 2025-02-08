@@ -10,7 +10,7 @@ entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
 invertYMouse:false
-realmsNotifications:true
+realmsNotifications:false
 reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
@@ -30,10 +30,10 @@ glintSpeed:0.5
 glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
-gamma:0.0
+gamma:0.5
 renderDistance:10
-simulationDistance:12
-entityDistanceScaling:1.0
+simulationDistance:10
+entityDistanceScaling:2.0
 guiScale:0
 particles:0
 maxFps:260
@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","distinguishedpotions:potion_overrides","fabric"]
-incompatibleResourcePacks:[]
+resourcePacks:["teastory_asset_generator","vanilla","mod_resources","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","distinguishedpotions:potion_overrides","fabric"]
+incompatibleResourcePacks:["teastory_asset_generator"]
 lastServer:
 lang:zh_cn
 soundDevice:""
@@ -59,7 +59,7 @@ overrideWidth:0
 overrideHeight:0
 chatHeightFocused:1.0
 chatDelay:0.0
-chatHeightUnfocused:0.4375
+chatHeightUnfocused:0.38028169014084506
 chatScale:1.0
 chatWidth:1.0
 notificationDisplayTime:1.0
@@ -85,8 +85,8 @@ panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
 soundCategory_master:1.0
-soundCategory_music:0.0
-soundCategory_record:0.6056338028169014
+soundCategory_music:0.7570422535211268
+soundCategory_record:0.7570422535211268
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
@@ -102,5 +102,5 @@ modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
 textanimator.textAnimation:0
-textanimator.typewriterSpeed:5
+textanimator.typewriterSpeed:4
 textanimator.typewriterMode:0

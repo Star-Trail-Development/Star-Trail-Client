@@ -19,7 +19,6 @@ jobs:
           mkdir build/overrides
           mv ./config build/overrides
           mv ./kubejs build/overrides
-          mv ./xaero build/overrides
           mv options.txt build/overrides
           mv servers.dat build/overrides
           mv icon.png build/overrides

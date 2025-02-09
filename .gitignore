@@ -33,6 +33,8 @@ config/*
 !rainbows/overworld.json
 !shield_overhaul
 !thirst
+!amendments-*.toml
+!carryon-*.toml
 !embeddium*.*
 !forgematica.json
 !inventoryhud-client.toml
@@ -41,6 +43,7 @@ config/*
 !MadParticleConfig.json
 !minieffects-client.yaml
 !*rain.json5
+!scholar-*.toml
 !sodium*.*
 !travelers*.toml
 !tweakerge.json

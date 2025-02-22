@@ -30,7 +30,7 @@
   },
   "render_settings": {
     "fog_type": "MOD_COMPAT",
-    "fog_distance": 33,
+    "fog_distance": 8,
     "fog_start": 100,
     "multi_dimension_fog_control": false,
     "dimensionFogDistance": {

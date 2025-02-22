@@ -75,6 +75,9 @@
     "block": true,
     "note_block": true
   },
+  "balm": {
+    "jade": true
+  },
   "barbequesdelight": {
     "grill": true
   }

@@ -40,7 +40,6 @@ config/*
 !inventoryhud-client.toml
 !jecharacters.toml
 !jeiintegration-client.toml
-!MadParticleConfig.json
 !minieffects-client.yaml
 !*rain.json5
 !scholar-*.toml

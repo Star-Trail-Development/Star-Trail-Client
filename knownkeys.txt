@@ -195,3 +195,4 @@ key.t88.open_watcher
 key.mp.call_de
 key.mp.clear_de
 key.carry.desc
+key.control

@@ -1,0 +1,16 @@
+filename = 'scholar-1.20.1-1.1.5.1-forge.jar'
+name = 'Scholar'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '902aa0f6e7222cb97f117ba6d5165308a7bdabf08b79df4256bd3d6cbb4980cd53840f2c635d112f6e93fd036b11221299aa0de2a7889038e5aa9401b346e855'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fX4dIQCo/versions/qypiM7Ub/scholar-1.20.1-1.1.5.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'fX4dIQCo'
+version = 'qypiM7Ub'

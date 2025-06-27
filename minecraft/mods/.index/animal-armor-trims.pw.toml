@@ -1,0 +1,16 @@
+filename = 'animal_armor_trims-merged-1.20.1-2.0.1.jar'
+name = 'Animal Armor Trims - Horse & Wolf'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2a295114a26691247989c44dbf3383ae212f36c1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6313689
+project-id = 1008327

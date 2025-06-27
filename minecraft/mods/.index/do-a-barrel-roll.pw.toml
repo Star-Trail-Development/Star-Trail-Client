@@ -1,0 +1,16 @@
+filename = 'do_a_barrel_roll-forge-3.5.6+1.20.1.jar'
+name = 'Do a Barrel Roll'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '08b58bfbdf20660bdc5a0c4a0b088f7d89f40a38'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5326142
+project-id = 663658

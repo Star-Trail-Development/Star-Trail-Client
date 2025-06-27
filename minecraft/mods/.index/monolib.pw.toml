@@ -1,0 +1,16 @@
+filename = 'monolib-forge-1.20.1-2.1.0.jar'
+name = 'MonoLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b600741540e7a417ff851d5fe3add8014dc43f0f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6544057
+project-id = 968432

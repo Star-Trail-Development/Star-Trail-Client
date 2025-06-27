@@ -1,0 +1,16 @@
+filename = 'DarkPaintings-Forge-1.20.1-17.0.4.jar'
+name = 'Dark Paintings'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7b86af1252a330d592fde952d7154f9f6667f42a92ea3ffd6aca7df6d0a23d4397b42661025008640eac3ec141f8906a08443d59ebe8eb65e657ef604b7a4caf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lFGQ4Hnk/versions/8Wb8Gq7c/DarkPaintings-Forge-1.20.1-17.0.4.jar'
+
+[update.modrinth]
+mod-id = 'lFGQ4Hnk'
+version = '8Wb8Gq7c'

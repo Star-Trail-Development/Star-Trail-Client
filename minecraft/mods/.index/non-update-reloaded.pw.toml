@@ -1,0 +1,16 @@
+filename = 'NonUpdateReloaded-1.0.1-forge.jar'
+name = 'NonUpdate Reloaded'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '60c42febacdb2231aea581cc52741e31910d43cb0d662608ea471e3d133a7ad8c7bb035dff08800223916f9c532fba90e36f53443560f70584bea2c94461cdc2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/msrQK89I/versions/tjZRE6Mk/NonUpdateReloaded-1.0.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'msrQK89I'
+version = 'tjZRE6Mk'

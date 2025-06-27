@@ -1,0 +1,16 @@
+filename = '[1.20.1] [Sinytra] Hybrid Aquatic 1.4.4.jar'
+name = 'Hybrid Aquatic'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '62823e21dcbfc2cca0fec0cc351b780a53c0c29d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6497304
+project-id = 834427

@@ -1,0 +1,16 @@
+filename = 'ItemPhysic_FORGE_v1.8.7_mc1.20.1.jar'
+name = 'ItemPhysic'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4e2f595a9437978970b05bba5f610b231ca5570567b0a61468a442c0a9f97144d77d89425d24dac9c6d9837a17e1748b3a085a36e2b570aae138f787b51f3be9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aT8BzaOj/versions/PfKluHbn/ItemPhysic_FORGE_v1.8.7_mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'aT8BzaOj'
+version = 'PfKluHbn'

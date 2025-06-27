@@ -1,0 +1,16 @@
+filename = 'Tea-the-Story-Recount-1.20.1-forge-0.4.6.1.jar'
+name = 'Tea the Story : Recount'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '97d57a3a582ac91e65615fa6d005290d7f01bc6b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6636169
+project-id = 1088855

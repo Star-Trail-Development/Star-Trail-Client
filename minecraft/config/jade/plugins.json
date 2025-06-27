@@ -51,6 +51,15 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "exposure": {
+    "lightroom": true,
+    "photograph_frame": true
+  },
+  "delightful": {
+    "crop_progress": true,
+    "pie_icons": true,
+    "mushroom_colony": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -61,5 +70,8 @@
   },
   "balm": {
     "jade": true
+  },
+  "barbequesdelight": {
+    "grill": true
   }
 }

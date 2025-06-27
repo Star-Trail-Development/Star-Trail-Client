@@ -1,0 +1,16 @@
+filename = 'horsestatsmod-MC1.20.x-1.4.7.jar'
+name = 'Horse Statistics (fabric/neoforge/forge)'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '41b21de1b68c58c07439df7df2de2d6ce478afcf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4594701
+project-id = 409126

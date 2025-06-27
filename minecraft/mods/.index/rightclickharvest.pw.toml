@@ -1,0 +1,16 @@
+filename = 'rightclickharvest-forge-4.5.3+1.20.1.jar'
+name = 'RightClickHarvest'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c4e587ac0df138207efbba587c31fd3442ab0468acb44d0ac2875131432040b695e1bc6ed30db2a0645a10be51f09070b7eb7d28c64699f3620e9410e798bc6f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Cnejf5xM/versions/9vLC6WwT/rightclickharvest-forge-4.5.3%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Cnejf5xM'
+version = '9vLC6WwT'

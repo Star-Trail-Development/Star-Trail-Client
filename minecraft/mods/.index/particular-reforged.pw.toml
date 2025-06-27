@@ -1,0 +1,16 @@
+filename = 'particular-1.20.1-Forge-1.2.4.jar'
+name = 'Particular ✨ Reforged'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4dc0cfd572151816c939d2896ad8f13838cb7cf6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6603252
+project-id = 1219053

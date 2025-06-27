@@ -1,0 +1,16 @@
+filename = 'realisticbees-1.20.1-4.2.jar'
+name = 'Realistic Bees'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a165c486bfdb5d31de7c4895ad8878d423ab90bf2faccc624b795f7c951c70d51f7a689e997b6bcbfa422fb4efed2f394f4f2ed99d7bb911721a74aef228c1e4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tG6HkcWx/versions/44s772eG/realisticbees-1.20.1-4.2.jar'
+
+[update.modrinth]
+mod-id = 'tG6HkcWx'
+version = '44s772eG'

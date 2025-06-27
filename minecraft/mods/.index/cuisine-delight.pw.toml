@@ -1,0 +1,16 @@
+filename = 'cuisinedelight-1.1.17.jar'
+name = 'Cuisine Delight'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b54a056daa1ab3fecaa19b6d4bd857dc6cbd84c0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6677944
+project-id = 893541

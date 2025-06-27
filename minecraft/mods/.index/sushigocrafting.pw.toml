@@ -1,0 +1,16 @@
+filename = 'sushigocrafting-1.20.1-0.5.3.jar'
+name = 'Sushi Go Crafting'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '74e84e64630d3005240ac8c4914970b6088e13833014a6a5d003ee2e4e4e212f7b73378981ab1a44dd069c74e56709d5e25200f783969804d93a9899cee056de'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/G9WbcGQ2/versions/DkoEKpLm/sushigocrafting-1.20.1-0.5.3.jar'
+
+[update.modrinth]
+mod-id = 'G9WbcGQ2'
+version = 'DkoEKpLm'

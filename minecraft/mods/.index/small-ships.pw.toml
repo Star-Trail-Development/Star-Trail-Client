@@ -1,0 +1,16 @@
+filename = 'smallships-forge-1.20.1-2.0.0-b1.4.jar'
+name = 'Small Ships [Fabric & Forge]'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '9998ddc8a278e0b87ab642d289ae2a1e3dbebef6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5566900
+project-id = 450659

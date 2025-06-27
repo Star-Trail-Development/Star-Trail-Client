@@ -1,0 +1,16 @@
+filename = 'createcobblestone-1.4.5+forge-1.20.1-106.jar'
+name = 'Create Cobblestone'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'de37561041e967b957814c007a28dc5dfc5735ec'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6387172
+project-id = 1023532

@@ -1,0 +1,16 @@
+filename = 'cyclepaintings-1.20.1-4.1.jar'
+name = 'Cycle Paintings'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '25b415defaafb5ca55326a144d9df34706c4a076'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6271855
+project-id = 345973

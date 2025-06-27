@@ -1,0 +1,16 @@
+filename = 'entityculling-forge-1.8.0-mc1.20.1.jar'
+name = 'Entity Culling'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'af9ba81d12b1f3f425203cabecbd0409686cedc7b4491e751e09b32732a971adfaeca0f8e81671d2055621cdcd6160481f2c7268a38280fd80626a4ffa61fb68'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NNAgCjsB/versions/DQD98FEX/entityculling-forge-1.8.0-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'NNAgCjsB'
+version = 'DQD98FEX'

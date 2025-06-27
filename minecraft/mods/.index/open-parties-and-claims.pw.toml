@@ -1,0 +1,16 @@
+filename = 'open-parties-and-claims-forge-1.20.1-0.24.0.jar'
+name = 'Open Parties and Claims'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '884924b3820d51f0d6ae0f0b5b8bc35aefaf1920'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6242869
+project-id = 636608

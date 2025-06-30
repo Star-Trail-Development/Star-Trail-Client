@@ -1,0 +1,16 @@
+filename = 'ultramarine-1.20.1-0.5.1.jar'
+name = 'Ultramarine'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'e96385dc4495a71abc5a19871e6753eb223b7335dacb1850237209c1447de524f986191767581e6fad890897e9c115839b3a3638d3eae4cd515cb9531a061fd2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mlaQPFEe/versions/gt0CDsCW/ultramarine-1.20.1-0.5.1.jar'
+
+[update.modrinth]
+mod-id = 'mlaQPFEe'
+version = 'gt0CDsCW'

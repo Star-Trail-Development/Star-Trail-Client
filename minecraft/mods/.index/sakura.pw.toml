@@ -1,16 +1,16 @@
-filename = 'tfmg-1.0e.jar'
-name = 'Create: The Factory Must Grow'
+filename = 'Sakura-1.0.9-1.20.1.jar'
+name = 'Sakura'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '3e0929921152867e0245b5dce3da028d66a1bc11'
+hash = '743774c9574b99745c47d3d21dd703bbd550c565'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6684635
-project-id = 693815
+file-id = 6465966
+project-id = 333079

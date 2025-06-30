@@ -1,0 +1,16 @@
+filename = "XeKr's Decoration-1.20.1-Forge-0.8.5.jar"
+name = "XK's Decoration"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4f106fd11232e694a5f173c73b23851bf0e67ef265f853cbbc64a232f67846da41f2691b8805331cc98b228994abdeb2cf1d76fa4f7409c0b212c01c086bfd1b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XlwMlNhH/versions/TFngPoRn/XeKr%27s Decoration-1.20.1-Forge-0.8.5.jar'
+
+[update.modrinth]
+mod-id = 'XlwMlNhH'
+version = 'TFngPoRn'

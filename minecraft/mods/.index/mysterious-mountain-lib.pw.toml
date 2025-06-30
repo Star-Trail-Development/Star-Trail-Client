@@ -1,16 +1,16 @@
-filename = 'Delightful-1.20.1-3.7.3.jar'
-name = 'Delightful'
+filename = 'mysterious_mountain_lib-1.5.22-1.20.1.jar'
+name = 'Mysterious Mountain Lib'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'caa1c01cdafa4ccadaa26428d57794f68177aa03'
+hash = '541526a73a93ecd2fade340cbdb280bc0cf222a9'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6706182
-project-id = 637529
+file-id = 6659066
+project-id = 368098

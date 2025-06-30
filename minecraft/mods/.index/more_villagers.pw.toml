@@ -1,0 +1,16 @@
+filename = 'more_villargers-2.5.8-forge-1.20.1.jar'
+name = 'More Villagers'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8b122ffbc8e69063257fe9b89251a32ed22d7e848ca2ee34aecde019037ef61517006d5f484d94f77c8df4a25fc3f8299fb5d134027cc2beb19a7c08d4bd0633'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ghTSyem0/versions/3BzuQynG/more_villargers-2.5.8-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'ghTSyem0'
+version = '3BzuQynG'

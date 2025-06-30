@@ -1,0 +1,16 @@
+filename = 'CommonCapabilities-1.20.1-2.9.7.jar'
+name = 'Common Capabilities'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c6be9471bd5c386dc3ef3dbb5671fde096ee03d1f21596ec7b032eedbc7b03b7d132e705b11bb6507cac0ba62adf9fc3f799882bc9e352ce60d3365b4904afa2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oFXrCkDI/versions/E75T4otR/CommonCapabilities-1.20.1-2.9.7.jar'
+
+[update.modrinth]
+mod-id = 'oFXrCkDI'
+version = 'E75T4otR'

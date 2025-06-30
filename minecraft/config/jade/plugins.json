@@ -60,6 +60,9 @@
     "pie_icons": true,
     "mushroom_colony": true
   },
+  "supplementaries": {
+    "hat_stand": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -68,10 +71,30 @@
     "registry_name": "OFF",
     "mod_name": true
   },
+  "ultramarine": {
+    "brick_kiln": true,
+    "bottle_gourd": true,
+    "mallet_toggleable": true,
+    "censer_burn_time": true
+  },
   "balm": {
     "jade": true
   },
+  "integrateddynamicscompat": {
+    "proxy": true,
+    "mechanical_squeezer": true,
+    "mechanical_drying_basin": true,
+    "drying_basin": true,
+    "part": true,
+    "squeezer": true
+  },
   "barbequesdelight": {
     "grill": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "main": true,
+    "display.content": true,
+    "display.status": true
   }
 }

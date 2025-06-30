@@ -1,0 +1,16 @@
+filename = 'medieval_buildings-1.20.1-1.1.2-forge.jar'
+name = 'Medieval Buildings'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0ca3dc862220bfcc21b5b6e2c38646c96ae322ae0f9a35eb5f6dead897f60bf92151f9713926449d60bdc44c92271bb96b2b51e308eaebf601827057d82b218c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sc9lpPiU/versions/QSZLwslO/medieval_buildings-1.20.1-1.1.2-forge.jar'
+
+[update.modrinth]
+mod-id = 'sc9lpPiU'
+version = 'QSZLwslO'

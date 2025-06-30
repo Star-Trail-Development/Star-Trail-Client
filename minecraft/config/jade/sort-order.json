@@ -54,6 +54,12 @@
   "expatternprovider:tile_data": null,
   "exposure:lightroom": null,
   "exposure:photograph_frame": null,
+  "integrateddynamicscompat:drying_basin": null,
+  "integrateddynamicscompat:mechanical_drying_basin": null,
+  "integrateddynamicscompat:mechanical_squeezer": null,
+  "integrateddynamicscompat:part": null,
+  "integrateddynamicscompat:proxy": null,
+  "integrateddynamicscompat:squeezer": null,
   "jade:block_face": null,
   "jade:distance": null,
   "jade:mod_name": null,
@@ -113,7 +119,12 @@
   "pneumaticcraft:redstone": null,
   "pneumaticcraft:semiblock": null,
   "pneumaticcraft:tube_module": null,
+  "storagedrawers:main": null,
   "supplementaries:hat_stand": null,
   "supplementaries:present": null,
-  "supplementaries:safe": null
+  "supplementaries:safe": null,
+  "ultramarine:bottle_gourd": null,
+  "ultramarine:brick_kiln": null,
+  "ultramarine:censer_burn_time": null,
+  "ultramarine:mallet_toggleable": null
 }

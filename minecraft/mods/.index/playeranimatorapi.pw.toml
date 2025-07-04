@@ -1,0 +1,16 @@
+filename = 'playeranimatorapi-forge-1.20.1-2.1.7.jar'
+name = "Zigy's Player Animator API"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2cbd474c1d5dd2e4b7a9e8487cb5ff8e65f9cea2e022089b871b11d1b75d954f4d45a97d1babd04fa5b5b1dfc741b45b9e7e69eef99ebe7db14c002586901ee8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IkQufrWh/versions/9E2JcodV/playeranimatorapi-forge-1.20.1-2.1.7.jar'
+
+[update.modrinth]
+mod-id = 'IkQufrWh'
+version = '9E2JcodV'

@@ -1,4 +1,4 @@
-filename = 'short_circuit-forge-1.20.1-1.0.5.jar'
+filename = 'short_circuit-forge-1.20.1-1.0.6.jar'
 name = 'Short Circuit'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '850f4e92ea7ec3ffc194837a488fb4e4fd502c0a4308057b3ad6ea6abc53f0777255aab2904013032766498d3d9ded3dd5687e1f045c6c6bf417c1e4afc2b768'
+hash = '8ac238945a436ad30cbdde1a59c38bd34e360b843ae5fe8a6aa839f8f711585ab55d4d56ce72d55c64d3cc44c23b9c3d9cf9dc2a7cfe8106023a8a48c165568f'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/5dUwdwpB/versions/z2ReG6qK/short_circuit-forge-1.20.1-1.0.5.jar'
+url = 'https://cdn.modrinth.com/data/5dUwdwpB/versions/ZVOCan5o/short_circuit-forge-1.20.1-1.0.6.jar'
 
 [update.modrinth]
 mod-id = '5dUwdwpB'
-version = 'z2ReG6qK'
+version = 'ZVOCan5o'

@@ -1,4 +1,4 @@
-filename = 'packetfixer-3.1.1-1.18-1.20.4-merged.jar'
+filename = 'packetfixer-3.1.2-1.18-1.20.4-merged.jar'
 name = 'PacketFixer'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
@@ -20,11 +20,11 @@ x-prismlauncher-mc-versions = [
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'ca7c99accdc01df3fcf663410f07f80fb8c5c7ee'
+hash = 'b859210aa26e292035d43b1787aaf66fc00299aa'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6709657
+file-id = 6720969
 project-id = 689467

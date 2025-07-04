@@ -1,4 +1,4 @@
-filename = 'chattools-1.20.1-v2.3.10.2.jar'
+filename = 'chattools-1.20.1-v2.3.11.jar'
 name = 'Chat Tools'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '2663cffe415d2e24fc830d291deeea24388e77c3ff4d230cf78a5f8052a62434917469ea608d9ccee8b8cbe40f6a1862665a798e24a07695844b2eda87b6eb4f'
+hash = 'ffaa84bce4bdc9a8ec879120efaaec1b8c5aef9f3418a3ab919b954f8a9cf03eeb1f45b3e2434f0e06403fc7d96adaed49258cc0e13517273825c21d79dce4c4'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/pbnlOdwp/versions/cbAsARzQ/chattools-1.20.1-v2.3.10.2.jar'
+url = 'https://cdn.modrinth.com/data/pbnlOdwp/versions/IPlAJxYp/chattools-1.20.1-v2.3.11.jar'
 
 [update.modrinth]
 mod-id = 'pbnlOdwp'
-version = 'cbAsARzQ'
+version = 'IPlAJxYp'

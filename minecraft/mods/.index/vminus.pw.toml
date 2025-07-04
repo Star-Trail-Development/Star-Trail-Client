@@ -1,0 +1,16 @@
+filename = 'vminus-forge-1.20.1-3.2.7.jar'
+name = 'VMinus'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6bce174a8fd243ccdf2d30663ab6f3af9cb0121e12d7b37f202f53945193e24d02554580eb45d25016227add7ee98907db9708fcc4d67e48aaeda2ace922a5e7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fWANN5B2/versions/PergjDF3/vminus-forge-1.20.1-3.2.7.jar'
+
+[update.modrinth]
+mod-id = 'fWANN5B2'
+version = 'PergjDF3'

@@ -1,0 +1,16 @@
+filename = 'shield_overhaul-2.0.2-FORGE.jar'
+name = 'Shield Overhaul'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0e35dec06425bfe194af754fc0214ae6e73b43e1df0cf5fd4fb9e7779cd921f6f5dfa5b7fc3b9fe46b3b2e6b5c4452f4b1fb7b1ab3ba542d4de754541969133a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XGoaJBjR/versions/Bbyxg3C6/shield_overhaul-2.0.2-FORGE.jar'
+
+[update.modrinth]
+mod-id = 'XGoaJBjR'
+version = 'Bbyxg3C6'

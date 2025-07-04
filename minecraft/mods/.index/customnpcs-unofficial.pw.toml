@@ -1,16 +1,16 @@
-filename = 'CustomNPCs-1.20.1-GBPort-Unofficial-20250429.jar'
-name = 'CustomNPCs-Unofficial'
+filename = 'CustomNPCs-GBPort-Unofficial-1.20.1.20250628.jar'
+name = 'Custom NPCs'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '9c45ce9952119cd4401e534a85be711ed81b00b4ac5a12aa990c5c6c6cb608cc2feaa4fa65304ef884fc59ee27ae579f6702bf40d36f96089a2ad4c582a63883'
+hash = '4d885db010bbce4e51b53c2d12637eb41a0edf68b32427e86dd4032d5d18a83fbb80994e788044b6d6f1c7ae2c6a73600ab58e3c8a71d3dcb16bd383150d1c00'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/vFAmwl6B/versions/SahRsiJ0/CustomNPCs-1.20.1-GBPort-Unofficial-20250429.jar'
+url = 'https://cdn.modrinth.com/data/vFAmwl6B/versions/mSREK3T7/CustomNPCs-GBPort-Unofficial-1.20.1.20250628.jar'
 
 [update.modrinth]
 mod-id = 'vFAmwl6B'
-version = 'SahRsiJ0'
+version = 'mSREK3T7'

@@ -22,7 +22,7 @@
 		enableOverlay = true
 		#Offsets to left side
 		#Range: > -2147483648
-		offsetX = 20
+		offsetX = 80
 		#Offsets to up
 		#Range: > -2147483648
 		offsetY = 30

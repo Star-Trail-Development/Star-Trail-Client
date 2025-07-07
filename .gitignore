@@ -6,6 +6,7 @@ minecraft/*
 
 #files
 !.gitignore
+!icon.ico
 !instance.cfg
 !LICENSE
 !mmc-pack.json

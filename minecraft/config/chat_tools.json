@@ -1,5 +1,5 @@
 {
-  "config.version": 2.31002,
+  "config.version": 2.311,
   "general.ChatTools.Enabled": true,
   "general.ShowWelcomeMessageEnabled": false,
   "general.CircuitBreaker.ToastThreshold": 10,
@@ -52,7 +52,7 @@
     "^(\\+|-)?\\d+(\\.\\d+)?$|^[.#%$/].*|\\ball\\b",
     "(^(\\[|<)i(tem)?(\\]|>)$)"
   ],
-  "chatkeybindings.RepeatKey": "key.keyboard.t",
+  "chatkeybindings.RepeatKey": "key.keyboard.unknown",
   "chatkeybindings.RepeatKeyModifier": "NONE",
   "chatkeybindings.Macro.Enabled": true,
   "chatkeybindings.Macro.List": [],
@@ -96,5 +96,7 @@
       "delayInMilliseconds": 1000,
       "forceDisableFormatter": false
     }
-  ]
+  ],
+  "general.DisableTextObfuscation.Enabled": false,
+  "formatter.DisableThreshold": 256
 }

@@ -147,7 +147,7 @@
       "keys": "M,S"
     },
     "openGuiSettings": {
-      "keys": "M,C"
+      "keys": "RIGHT_BRACKET"
     },
     "operationModeChangeModifier": {
       "keys": "LEFT_CONTROL"

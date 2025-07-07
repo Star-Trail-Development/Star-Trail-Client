@@ -19,7 +19,7 @@ fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
-darkMojangStudiosBackground:false
+darkMojangStudiosBackground:true
 hideLightningFlashes:false
 mouseSensitivity:0.5
 fov:0.0
@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","fabric","distinguishedpotions:potion_overrides","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip"]
+resourcePacks:["vanilla","mod_resources","fabric","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","Moonlight Mods Dynamic Assets"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
@@ -85,8 +85,8 @@ panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
 soundCategory_master:1.0
-soundCategory_music:0.7570422535211268
-soundCategory_record:0.7570422535211268
+soundCategory_music:0.35563380281690143
+soundCategory_record:0.3503521126760563
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0

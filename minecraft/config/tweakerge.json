@@ -156,7 +156,7 @@
       "keys": "LEFT_ALT"
     },
     "openConfigGui": {
-      "keys": "X,C"
+      "keys": "LEFT_BRACKET"
     },
     "placementYMirror": {
       "keys": ""

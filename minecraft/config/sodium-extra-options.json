@@ -55,7 +55,7 @@
     "show_f_p_s_extended": false,
     "show_coords": false,
     "reduce_resolution_on_mac": false,
-    "use_adaptive_sync": true,
+    "use_adaptive_sync": false,
     "cloud_height": 253,
     "cloud_distance": 300,
     "toasts": true,

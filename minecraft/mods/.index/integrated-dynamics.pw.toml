@@ -1,4 +1,4 @@
-filename = 'IntegratedDynamics-1.20.1-1.27.4.jar'
+filename = 'IntegratedDynamics-1.20.1-1.27.5.jar'
 name = 'Integrated Dynamics'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'd1a8b190de2d81cd2fa47a0d1e421b39f55fcfdd324f7eaa249df42d55e2b18206beb5c8e48db78364ec3702cc7eed4b0ce1f5a1d74af8e73b136b4736e3b452'
+hash = 'e19b44bb08aadedc78feadba75d16315532e7752e9d565bde53a752ae495a8ec203a5fc4f3299decac633ce685ebcfcb7e3b7cebeff6d47ce077c60dca2d68ae'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/yYzdQHJI/versions/oF5tQWvT/IntegratedDynamics-1.20.1-1.27.4.jar'
+url = 'https://cdn.modrinth.com/data/yYzdQHJI/versions/mvyOY6SF/IntegratedDynamics-1.20.1-1.27.5.jar'
 
 [update.modrinth]
 mod-id = 'yYzdQHJI'
-version = 'oF5tQWvT'
+version = 'mvyOY6SF'

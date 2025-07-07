@@ -1,6 +1,6 @@
 filename = 'Explorify v1.6.2 f10-48.jar'
 name = 'Explorify'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.19',
@@ -21,7 +21,8 @@ x-prismlauncher-mc-versions = [
     '1.21.3',
     '1.21.4',
     '1.21.5',
-    '1.21.6'
+    '1.21.6',
+    '1.21.7'
 ]
 x-prismlauncher-release-type = 'release'
 

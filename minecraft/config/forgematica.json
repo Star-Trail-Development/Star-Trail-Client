@@ -56,7 +56,7 @@
     "signTextPaste": true,
     "toolItemEnabled": true,
     "unhideSchematicVCS": false,
-    "pasteReplaceBehavior": "none",
+    "pasteReplaceBehavior": "all",
     "selectionCornersMode": "corners",
     "commandFillMaxVolume": 32768,
     "commandLimitPerTick": 24,
@@ -72,7 +72,7 @@
   },
   "Hotkeys": {
     "addSelectionBox": {
-      "keys": "M,A"
+      "keys": "F4,A"
     },
     "cloneSelection": {
       "keys": ""
@@ -84,10 +84,10 @@
       "keys": "BUTTON_2"
     },
     "easyPlaceToggle": {
-      "keys": ""
+      "keys": "0"
     },
     "executeOperation": {
-      "keys": ""
+      "keys": "F12"
     },
     "invertGhostBlockRenderState": {
       "keys": ""
@@ -96,10 +96,10 @@
       "keys": ""
     },
     "layerModeNext": {
-      "keys": "M,PAGE_UP"
+      "keys": "F4,PAGE_UP"
     },
     "layerModePrevious": {
-      "keys": "M,PAGE_DOWN"
+      "keys": "F4,PAGE_DOWN"
     },
     "layerNext": {
       "keys": "PAGE_UP"
@@ -126,25 +126,25 @@
       "keys": ""
     },
     "openGuiMainMenu": {
-      "keys": "M"
+      "keys": "F4"
     },
     "openGuiMaterialList": {
-      "keys": "M,L"
+      "keys": "F4,L"
     },
     "openGuiPlacementSettings": {
       "keys": "KP_SUBTRACT"
     },
     "openGuiSchematicPlacements": {
-      "keys": "M,P"
+      "keys": "F4,P"
     },
     "openGuiSchematicProjects": {
       "keys": ""
     },
     "openGuiSchematicVerifier": {
-      "keys": "M,V"
+      "keys": "F4,V"
     },
     "openGuiSelectionManager": {
-      "keys": "M,S"
+      "keys": "F4,S"
     },
     "openGuiSettings": {
       "keys": "RIGHT_BRACKET"
@@ -159,22 +159,22 @@
       "keys": ""
     },
     "pickBlockToggle": {
-      "keys": "M,BUTTON_3"
+      "keys": "F4,BUTTON_3"
     },
     "renderInfoOverlay": {
-      "keys": "I"
+      "keys": ""
     },
     "renderOverlayThroughBlocks": {
-      "keys": "RIGHT_CONTROL"
+      "keys": ""
     },
     "rerenderSchematic": {
-      "keys": "F3,M"
+      "keys": "F3,F4"
     },
     "saveAreaAsInMemorySchematic": {
       "keys": ""
     },
     "saveAreaAsSchematicToFile": {
-      "keys": "LEFT_CONTROL,LEFT_ALT,S"
+      "keys": "LEFT_ALT,S"
     },
     "schematicEditBreakPlaceAll": {
       "keys": ""
@@ -216,7 +216,7 @@
       "keys": "LEFT_ALT"
     },
     "selectionModeCycle": {
-      "keys": "LEFT_CONTROL,M"
+      "keys": "LEFT_CONTROL,F4"
     },
     "selectionShrink": {
       "keys": ""
@@ -231,7 +231,7 @@
       "keys": ""
     },
     "toggleAllRendering": {
-      "keys": "M,R"
+      "keys": "F4,R"
     },
     "toggleAreaSelectionBoxesRendering": {
       "keys": ""
@@ -258,7 +258,7 @@
       "keys": ""
     },
     "toggleSchematicRendering": {
-      "keys": "M,G"
+      "keys": "F4,G"
     },
     "toggleSignTextPaste": {
       "keys": ""
@@ -270,7 +270,7 @@
       "keys": ""
     },
     "toolEnabledToggle": {
-      "keys": "M,T"
+      "keys": "F4,T"
     },
     "toolPlaceCorner1": {
       "keys": "BUTTON_1"

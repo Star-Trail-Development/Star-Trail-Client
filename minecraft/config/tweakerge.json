@@ -11,12 +11,12 @@
     "fastPlacementRememberOrientation": true,
     "freeCameraPlayerInputs": false,
     "freeCameraPlayerMovement": false,
-    "handRestockPre": true,
+    "handRestockPre": false,
     "hangableEntityBypassInverse": false,
     "itemUsePacketCheckBypass": true,
     "permanentSneakAllowInGUIs": false,
     "placementRestrictionTiedToFast": true,
-    "potionWarningBeneficialOnly": true,
+    "potionWarningBeneficialOnly": false,
     "rememberFlexibleFromClick": true,
     "shulkerDisplayBgColor": true,
     "shulkerDisplayRequireShift": true,
@@ -30,7 +30,7 @@
     "breakingRestrictionMode": "line",
     "elytraCameraIndicator": "with_key",
     "entityTypeAttackRestrictionWarn": "message",
-    "placementRestrictionMode": "face",
+    "placementRestrictionMode": "plane",
     "hotbarSwapOverlayAlignment": "bottom_right",
     "snapAimMode": "yaw",
     "chatTimeFormat": "[HH:mm:ss]",
@@ -50,7 +50,7 @@
     "flySpeedPreset2": 0.064,
     "flySpeedPreset3": 0.128,
     "flySpeedPreset4": 0.32,
-    "gammaOverrideValue": 16.0,
+    "gammaOverrideValue": 32.0,
     "handRestockPreThreshold": 6,
     "hotbarSlotCycleMax": 2,
     "hotbarSlotRandomizerMax": 5,
@@ -105,7 +105,7 @@
       "keys": ""
     },
     "copySignText": {
-      "keys": ""
+      "keys": "PERIOD"
     },
     "elytraCamera": {
       "keys": ""
@@ -114,10 +114,10 @@
       "keys": ""
     },
     "flexibleBlockPlacementOffset": {
-      "keys": "LEFT_CONTROL"
+      "keys": ""
     },
     "flexibleBlockPlacementRotation": {
-      "keys": "LEFT_ALT"
+      "keys": ""
     },
     "flyPreset1": {
       "keys": ""
@@ -153,7 +153,7 @@
       "keys": ""
     },
     "inventoryPreview": {
-      "keys": "LEFT_ALT"
+      "keys": ""
     },
     "openConfigGui": {
       "keys": "LEFT_BRACKET"
@@ -747,7 +747,7 @@
     "tweakHotbarSwap": false,
     "tweakInventoryPreview": false,
     "tweakItemUnstackingProtection": false,
-    "tweakLavaVisibility": false,
+    "tweakLavaVisibility": true,
     "tweakMapPreview": false,
     "tweakMovementKeysLast": false,
     "tweakPeriodicAttack": false,
@@ -796,7 +796,7 @@
       "keys": ""
     },
     "tweakAngelBlock": {
-      "keys": ""
+      "keys": "EQUAL"
     },
     "tweakAutoSwitchElytra": {
       "keys": ""
@@ -856,7 +856,7 @@
       "keys": ""
     },
     "tweakFastBlockPlacement": {
-      "keys": ""
+      "keys": "MINUS"
     },
     "tweakFastLeftClick": {
       "keys": ""
@@ -874,10 +874,10 @@
       "keys": ""
     },
     "tweakFreeCamera": {
-      "keys": ""
+      "keys": "X"
     },
     "tweakGammaOverride": {
-      "keys": ""
+      "keys": "F8"
     },
     "tweakHandRestock": {
       "keys": ""
@@ -985,7 +985,7 @@
       "keys": ""
     },
     "tweakSignCopy": {
-      "keys": ""
+      "keys": "COMMA"
     },
     "tweakSnapAim": {
       "keys": ""
@@ -1009,7 +1009,7 @@
       "keys": ""
     },
     "tweakToolSwitch": {
-      "keys": ""
+      "keys": "P"
     },
     "tweakWeaponSwitch": {
       "keys": ""

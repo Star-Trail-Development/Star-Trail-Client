@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","fabric","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","Moonlight Mods Dynamic Assets"]
-incompatibleResourcePacks:[]
+resourcePacks:["teastory_asset_generator","vanilla","mod_resources","fabric","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","Moonlight Mods Dynamic Assets","distinguishedpotions:potion_overrides","xkdeco_mimic_wall"]
+incompatibleResourcePacks:["xkdeco_mimic_wall"]
 lastServer:
 lang:zh_cn
 soundDevice:""

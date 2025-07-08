@@ -211,7 +211,7 @@ key_key.jei.cheatOneItem:key.mouse.left
 key_key.jei.toggleHideIngredient:key.mouse.left:CONTROL
 key_key.travelersbackpack.inventory:key.keyboard.b
 key_key.travelersbackpack.sort:key.keyboard.unknown
-key_key.travelersbackpack.ability:key.keyboard.unknown
+key_key.travelersbackpack.ability:key.keyboard.right.alt
 key_key.travelersbackpack.cycle_tool:key.mouse.4
 key_key.travelersbackpack.toggle_tank:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.unknown
@@ -286,7 +286,7 @@ key_key.nbtedit.shortcut:key.keyboard.insert
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_Sit:key.keyboard.z
 key_gui.xaero_pac_key_open_menu:key.keyboard.i
-key_key.observable.profile:key.keyboard.right.alt
+key_key.observable.profile:key.keyboard.f9
 soundCategory_master:1.0
 soundCategory_music:0.35563380281690143
 soundCategory_record:0.3503521126760563

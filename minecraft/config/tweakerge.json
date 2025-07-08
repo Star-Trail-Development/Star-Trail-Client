@@ -718,7 +718,7 @@
     "tweakChatBackgroundColor": false,
     "tweakChatPersistentText": false,
     "tweakChatTimestamp": false,
-    "tweakCommandBlockExtraFields": false,
+    "tweakCommandBlockExtraFields": true,
     "tweakCustomFlyDeceleration": false,
     "tweakCustomInventoryScreenScale": false,
     "tweakElytraCamera": false,

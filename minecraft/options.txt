@@ -134,7 +134,7 @@ key_key.integratedterminals.terminal.craftinggrid.balance:key.keyboard.b
 key_key.integratedterminals.terminal.portable.open:key.keyboard.g
 key_key.modernfix.config:key.keyboard.unknown
 key_key.exposure.camera_controls:key.keyboard.unknown
-key_key.more_villargers.guide_gui:key.keyboard.f8
+key_key.more_villargers.guide_gui:key.keyboard.unknown
 key_key.scholar.toggle_book_tools:key.keyboard.f1
 key_key.scholar.import_book:key.keyboard.unknown
 key_key.scholar.export_book:key.keyboard.unknown
@@ -283,7 +283,7 @@ key_key.inventoryhud.togglepot:key.keyboard.unknown
 key_key.inventoryhud.togglearm:key.keyboard.unknown
 key_key.inventoryhud.toggleall:key.keyboard.unknown
 key_key.nbtedit.shortcut:key.keyboard.insert
-key_key.presencefootsteps.settings:key.keyboard.f10
+key_key.presencefootsteps.settings:key.keyboard.unknown
 key_Sit:key.keyboard.z
 key_gui.xaero_pac_key_open_menu:key.keyboard.i
 key_key.observable.profile:key.keyboard.f9

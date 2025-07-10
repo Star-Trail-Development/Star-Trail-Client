@@ -235,3 +235,7 @@ supplementaries.keybind.quiver
 key.presencefootsteps.settings
 Sit
 key.observable.profile
+treechop.key.toggle_chopping
+treechop.key.toggle_felling
+treechop.key.cycle_sneak_behavior
+treechop.key.open_settings_overlay

@@ -1,6 +1,8 @@
 #folders
 !inventoryprofilesnext/
 inventoryprofilesnext/*
+!jei/
+jei/*
 !defaultoptions/
 !incontrol/
 !InventoryHUD/
@@ -21,7 +23,6 @@ inventoryprofilesnext/*
 !chat_tools.json
 !chloride-client.json
 !cull-less-leaves.json
-!efallingtrees*.json
 !embeddium*.*
 !emotecraft.json
 !farsight.json
